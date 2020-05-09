@@ -15,5 +15,6 @@ Day 6: Majority Element (https://leetcode.com/explore/challenge/card/may-leetcod
 
 Day 7: Cousins in Binary Tree (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)
 
-Check If It Is a Straight Line (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)
+Day 8: Check If It Is a Straight Line (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)
 
+Day 9: Valid Perfect Square (https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)
