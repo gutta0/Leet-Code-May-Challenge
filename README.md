@@ -18,3 +18,5 @@ Day 7: Cousins in Binary Tree (https://leetcode.com/explore/challenge/card/may-l
 Day 8: Check If It Is a Straight Line (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)
 
 Day 9: Valid Perfect Square (https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)
+
+Day 10: Find the Town Judge (https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)
