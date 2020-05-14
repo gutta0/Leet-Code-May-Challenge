@@ -26,3 +26,5 @@ Day 11: Flood Fill (https://leetcode.com/explore/featured/card/may-leetcoding-ch
 Day 12: Single Element in a Sorted Array (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
 
 Day 13: Remove K Digits (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
+
+Day 14: Implement Trie (Prefix Tree) (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
