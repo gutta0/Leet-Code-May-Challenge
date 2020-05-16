@@ -28,3 +28,7 @@ Day 12: Single Element in a Sorted Array (https://leetcode.com/explore/challenge
 Day 13: Remove K Digits (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
 
 Day 14: Implement Trie (Prefix Tree) (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
+
+Day 15: Maximum Sum Circular Subarray (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/)
+
+Day 16: Odd Even Linked List (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)
